@@ -8,3 +8,6 @@
 
 # L01 gr 1.3
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/L01_2022/main?labpath=LAB_01_G1_3.ipynb)
+
+# L01 gr 1.4
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyAGH/L01_2022/main?labpath=LAB_01_G1_4.ipynb)b
